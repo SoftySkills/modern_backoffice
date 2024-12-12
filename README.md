@@ -1,5 +1,7 @@
 # Modern Backoffice with Supabase Backend
 
+![My Image](public/thumbnail.png)
+
 This project is a fully functional Modern Backoffice for managing student data, built using modern web development tools. It features a robust backend powered by Supabase and a sleek, responsive frontend using React and Vite.
 
 ---
