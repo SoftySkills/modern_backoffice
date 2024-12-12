@@ -1,19 +1,19 @@
-# Modern Backoffice with Supabase Backend
+# Modern Backoffice with ReactJS and Supabase 🚀
 
 ![My Image](public/thumbnail.png)
 
 This project is a fully functional Modern Backoffice for managing student data, built using modern web development tools. It features a robust backend powered by Supabase and a sleek, responsive frontend using React and Vite.
 
-### Watch Full Tutorial
+### Watch Full Tutorial  👇
 You can watch the full tutorial on YouTube [here](https://youtu.be/KnXI9Zjqzcg).
 
-### Explore More Online Trainings and Courses
+### Explore More Online Trainings and Courses 🔥
 For more online training and courses, check out our website: [www.softyeducation.com](https://www.softyeducation.com)
 
 
-## Features
+## Features 🧩
 
-### Student Management
+### Student Management 
 
 - **CRUD Operations**: Add, delete, and update student records seamlessly.
 - **Pagination**: Navigate large datasets efficiently.
@@ -34,7 +34,7 @@ For more online training and courses, check out our website: [www.softyeducation
 
 ---
 
-## Tech Stack
+## Tech Stack 🧑‍💻
 
 ### Frontend
 
