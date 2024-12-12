@@ -1,6 +1,6 @@
-# Admin Dashboard with Supabase Backend
+# Modern Backoffice with Supabase Backend
 
-This project is a fully functional Admin Dashboard for managing student data, built using modern web development tools. It features a robust backend powered by Supabase and a sleek, responsive frontend using React and Vite.
+This project is a fully functional Modern Backoffice for managing student data, built using modern web development tools. It features a robust backend powered by Supabase and a sleek, responsive frontend using React and Vite.
 
 ---
 
