@@ -8,7 +8,7 @@ This project is a fully functional Modern Backoffice for managing student data, 
 You can watch the full tutorial on YouTube [here](https://youtu.be/KnXI9Zjqzcg).
 
 ### Explore More Online Trainings and Courses 🔥
-For more online training and courses, check out our website: [www.softyeducation.com](https://www.softyeducation.com)
+For more online training and courses, check out our website: [www.softyskills.com](https://www.softyskills.com)
 
 
 ## Features 🧩
