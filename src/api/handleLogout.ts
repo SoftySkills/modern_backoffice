@@ -1,7 +1,6 @@
 import { supabase } from "../../supabaseClient";
 
-export const handleLogout = () => {
-  localStorage.removeItem("sb-rvqndyyuktiqbjamkpwo-auth-token");
-  supabase.auth.signOut();
+export const handleLogout = async () => {
+  await supabase.auth.signOut();
   window.location.href = "/login";
 };
